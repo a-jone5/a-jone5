@@ -15,7 +15,7 @@ My main interests currently lie in:
 I have recently developed a passing interest in web development so I am currently learning bits and pieces about
  + ☕ JavaScript
  + 3️⃣ D3.js
- + ⚛️ React
+ + 🟠 Svelte
 
 More to follow soon!
 
